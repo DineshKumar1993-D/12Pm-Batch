@@ -1,1 +1,1 @@
-Java is a object oriented language
+Python is a object oriented language
